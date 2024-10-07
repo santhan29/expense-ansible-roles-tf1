@@ -1,0 +1,4 @@
+mysql_root_password: ExpenseApp1 
+login_host: mysql-dev.aws81s.store 
+app_location: /app
+component: backend
